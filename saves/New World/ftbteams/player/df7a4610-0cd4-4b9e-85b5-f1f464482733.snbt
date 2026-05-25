@@ -1,0 +1,19 @@
+{
+	id: "df7a4610-0cd4-4b9e-85b5-f1f464482733"
+	type: "player"
+	player_name: "GoblinMaeve"
+	ranks: {
+		df7a4610-0cd4-4b9e-85b5-f1f464482733: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "GoblinMaeve"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

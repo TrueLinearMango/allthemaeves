@@ -1,0 +1,13 @@
+name = "Veinminer - Highly Configurable"
+filename = "Veinminer-neoforge-3.1.2+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d7d59c1e806ee8fb3c0671b648153bbc5732bb8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7635627
+project-id = 1296186

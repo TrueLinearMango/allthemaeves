@@ -2,27 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/kinetics/belt/BeltBlock.class"
-hash = "22b37df97608d1ac3c31b004ab84b5e36fcd7643147f3f14516428937317e0c6"
+hash = "daefaed8ddb6a3f64f3a68862868ca7c2d125ca560d5efd408c539000234722c"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/kinetics/belt/BeltBlockEntity.class"
-hash = "e2ab00a6efd038d7477201f3daabbbd27a7aed3dda2bcbac2abe807b01a53dc6"
+hash = "654c497874ed86566ef9fdb336615996e91f183e5e7d437175d84dd5cd028d38"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/kinetics/crusher/CrushingWheelBlock.class"
-hash = "1aaa4705cb34e2e34a19bd48de89e27b7ce785947230fa815e2d6a1eb95213ca"
+hash = "8d1f407fd08903339e3291bf4ebf91c849bf758cc81c5b02becc3a22e0baa80a"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/kinetics/crusher/CrushingWheelControllerBlock.class"
-hash = "a56dfbbd1ef052d1245dc128c7f351e0b6c2dd6cfc8d3b19edb2198fa7dd0b9e"
+hash = "dc5cf1dd69e73bdf7f276bc0b900934d534836e702553d165eb7e5340101c700"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/trains/display/FlapDisplayBlock.class"
-hash = "d7ea1f719b57a83192ec21117eeb00ee4674bbbecfc5ab70e6f3e420bbcebaa0"
+hash = "bd4653fe8985fb1ea52a5114a10a78479a732e7edd8f58153dbc4f9ebe796ffe"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/trains/display/FlapDisplayBlockEntity.class"
-hash = "f6c8fc40b702273ac75119f36c6903fd019ae0fe348cb6564aec4647fc352e15"
+hash = "983f978fb33e8ecb05496c1f077b5d94406deb74567acba1dc0525860be29e1f"
 
 [[files]]
 file = ".mixin.out/class/dev/engine_room/flywheel/backend/engine/indirect/MatrixBuffer.class"
@@ -30,7 +30,7 @@ hash = "21bd08882304552975b50aa2c21678d7056067af28ba9bd088d59984bb167b3a"
 
 [[files]]
 file = ".mixin.out/class/net/minecraft/nbt/CompoundTag.class"
-hash = "b473393d063f21097cf71d62a0d3c4fd02b520136b5e2a98007b5202bb7b4648"
+hash = "6894c3794e97c485fc4fc4f6c121dcb79dd1fa631310288bf6c09bed4acbbb1e"
 
 [[files]]
 file = ".pg-native/libpowergridNative7.so"
@@ -945,6 +945,14 @@ file = "config/corpse-server.toml"
 hash = "ccca6ca427eb813e81abe951caac1c37c8acc3fc55ba848eaef6bd2b303730c1"
 
 [[files]]
+file = "config/cosmeticarmorreworked-client.toml"
+hash = "98abc386a142611a852bb7f7166777b195ecc35f0be48b2287d257efccbe004c"
+
+[[files]]
+file = "config/cosmeticarmorreworked-common.toml"
+hash = "d7922ae120ea9aab0b43eb76ed814ac69b567e8332539e224792be5335a4b650"
+
+[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "07afbb337a858142fdeeaac4a484778b62dcdac1717d205962dec3da356cc77d"
 
@@ -954,7 +962,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "613e51300d2c5dcaefff0be9db8675c1929f225dc1656c76c1da4291eb651e9f"
+hash = "ecb738141f4148d45ea5c0db4663c5ed012eb9b9fca38813df74ea42b4b5b7dd"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -1258,7 +1266,7 @@ hash = "a0867628abd6f9e052a618e61cab635a2fc04f8b2cbf93419857ba8ecec21e25"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "778c4494f09cb4e6cde585ab55054373db66c6cda0881983acb6617b2f78ef8c"
+hash = "a99ba8266a49f1d19a7b20e271655887f8ddc58aab3f625113f4b64f92016e6f"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -1378,7 +1386,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "1192369f5eecdb4ad192686efc0b1903b8e8a5cf632b85204a25786669a9f913"
+hash = "1bfbeb80ed357f63ebb0955db4ad1973f4b6edfeeade8e066443cc5cb1a6f48d"
 
 [[files]]
 file = "config/irons_jewelry-server.toml"
@@ -1598,7 +1606,7 @@ hash = "d87f7908139478df74831962e2cd7b742c13fab97b8b85abd761f9935aa6407f"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "49ef98c1c7da20eedaa223a5995307e06b4779e873d7a5e7bd869c7a8a39727a"
+hash = "379ae4ae308340658b6a03ed67a8c3d3987d2a4a3d8950db509d430445cb9f1d"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -5646,7 +5654,7 @@ hash = "bdc98f07c25c340c46f8767908f227db5c08e5e2a62f8c5b972ad676169987d0"
 
 [[files]]
 file = "dynamic-resource-pack-cache/hash.txt"
-hash = "0f2c4e948a7e5c3820cc7e5f1a971fe2510ee149c271d09ed9f91912de420842"
+hash = "399b9ef10e1db8c680024665e4d245b248f4450041f5cf185b2fe32cef6480f7"
 
 [[files]]
 file = "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/minecraft/models/item/crossbow.json"
@@ -6717,44 +6725,24 @@ file = "icon.png"
 hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
 
 [[files]]
-file = "local/crash_assistant/2679_1779716019710.info"
-hash = "22360770a1d82261b8a455b24068e9f5d6ee07d806c838f59e549e084b866159"
+file = "local/crash_assistant/4275_1779718574410.info"
+hash = "2da4e659dad36f9d436dc08a51dea90dad3c08f8371c0ac18cf010a5462c2a6a"
 
 [[files]]
-file = "local/crash_assistant/2679_1779716019710_app.jar"
+file = "local/crash_assistant/4275_1779718574410_app.jar"
 hash = "e672a7deb12ec34f1a88167e731f00453a9d2520caaf27449514cb6a2bb73bdb"
 
 [[files]]
-file = "local/crash_assistant/2679_1779716019710_args.info"
-hash = "f43bf2a81a531b3403a06353636d802f0aa41e028bc315448d4ebc499821c27f"
+file = "local/crash_assistant/4275_1779718574410_args.info"
+hash = "022bdd115364c9fec3b2c7b65249859382ededc0e2694bdb0473c0dc54e01d11"
 
 [[files]]
-file = "local/crash_assistant/2679_1779716019710_mod.jar"
-hash = "3d9a73e311db4966a1fed9837d7923455c85298f621bcac0d04ff3fc420fbd90"
-
-[[files]]
-file = "local/crash_assistant/402_1779671045360.info"
-hash = "49514c8ea9b0e3c87585cc315365879ddc2e694e3dc4915055a0ead85ca5b161"
-
-[[files]]
-file = "local/crash_assistant/402_1779671045360_app.jar"
-hash = "e672a7deb12ec34f1a88167e731f00453a9d2520caaf27449514cb6a2bb73bdb"
-
-[[files]]
-file = "local/crash_assistant/402_1779671045360_args.info"
-hash = "27ed9ebad41c0e2e9f7336a8a242504a3529595f977b2db6474ae26c3e1a30f4"
-
-[[files]]
-file = "local/crash_assistant/402_1779671045360_mod.jar"
+file = "local/crash_assistant/4275_1779718574410_mod.jar"
 hash = "3d9a73e311db4966a1fed9837d7923455c85298f621bcac0d04ff3fc420fbd90"
 
 [[files]]
 file = "local/crash_assistant/CONFIG_LOCK.tmp"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "local/crash_assistant/joined_world_pid2679.tmp"
-hash = "0dd9c349e999a792838c828aee805b63eb0bde05d48ae85d6be3876a5fed2717"
 
 [[files]]
 file = "local/crash_assistant/local_config.json"
@@ -7171,6 +7159,10 @@ hash = "348897ebf93b5a9ac525dbd438d5a2cf732079eabd314b080d0e20d8b8fc93c1"
 [[files]]
 file = "local/crash_assistant/mod_data_cache_v4/corpse-neoforge-1.21.1-1.1.13.jar.mod_data.json"
 hash = "43d290ad8e7c0b22601293a7bd2ad130155088e807140752a1c20b683467dd84"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v4/cosmeticarmorreworked-1.21.1-v1-neoforge.jar.mod_data.json"
+hash = "58faf286add4dbf39b5525f004f47eaea6ca70c2d60384d2a94cc9de49c45231"
 
 [[files]]
 file = "local/crash_assistant/mod_data_cache_v4/create-1.21.1-6.0.10.jar.mod_data.json"
@@ -7753,28 +7745,16 @@ file = "local/crash_assistant/mod_data_cache_v4/xaeroworldmap-neoforge-1.21.1-1.
 hash = "837941e89a6adbe908ea33867aad743348b424f6aafab85f11cc97018292b2db"
 
 [[files]]
-file = "local/crash_assistant/normal_stop_pid2679.tmp"
-hash = "a200054f13894b3eadaec56ef41df35b6fb26537caac4f0d6d1f378215f1e49c"
+file = "local/crash_assistant/normal_stop_pid4275.tmp"
+hash = "2689f4d5687c3ce305a5651488e6aca21329ad86a20c5d2c31f6e33b6aa98275"
 
 [[files]]
-file = "local/crash_assistant/normal_stop_pid402.tmp"
-hash = "a23a936aec674462fe9a3945a5a042082a83e977f422efb64d6a83e6a366d708"
-
-[[files]]
-file = "local/crash_assistant/renderer_pid2679.tmp"
+file = "local/crash_assistant/renderer_pid4275.tmp"
 hash = "062bc9b48efb6372391b04ac5731441760ae3a001b4055c56d74777bf08cb8bb"
 
 [[files]]
-file = "local/crash_assistant/renderer_pid402.tmp"
-hash = "062bc9b48efb6372391b04ac5731441760ae3a001b4055c56d74777bf08cb8bb"
-
-[[files]]
-file = "local/crash_assistant/successful_launch_pid2679.tmp"
-hash = "9c9f2c5c1f72e7ebb8aa8a809aebb92abe5b1b801df877cbed2cd684ba510cd7"
-
-[[files]]
-file = "local/crash_assistant/successful_launch_pid402.tmp"
-hash = "4fc87a267429c3d935d4395615dd4aef8688a1aba5561cc496f0f08dafbd285f"
+file = "local/crash_assistant/successful_launch_pid4275.tmp"
+hash = "a04ff1c8f4b8d8307abe3c81a747bc1e090118db409ccf87866f02494a9ecca9"
 
 [[files]]
 file = "local/crash_assistant/username.info"
@@ -7996,11 +7976,6 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "20dece83926a8df256a5b6caf6becc5851b557754f9f70e9e2cb1d004e7030fc"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "f030da5b5a01d2d2efce7801f940136de61b16d4b2ca62747a038170d9a27a60"
 metafile = true
@@ -8008,11 +7983,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
 hash = "525285c1d963624b441ad1b32674f6029f10379ed8bd549304a58b4af33630de"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-size-variations.pw.toml"
-hash = "1803c706f6e3ff21d261e687f1bd0e039eb0ba7744fbbf7ab7888f57099911a9"
 metafile = true
 
 [[files]]
@@ -8053,11 +8023,6 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "9920b3cadb064073516f8d678e09c0d13a146bc3058725d036323852e5e18f15"
 metafile = true
 
 [[files]]
@@ -8485,11 +8450,6 @@ hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "e20b20d55b74dc8b3e9c2ff353b9f8788b3221b647cb32845fb53781a0b4684b"
-metafile = true
-
-[[files]]
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
@@ -8879,11 +8839,6 @@ hash = "8d00e5d6c44ec2ebb13b2659225091a81c62e15b7093acbb1b37957be0465fed"
 metafile = true
 
 [[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "eff7ebd7bc65ef5d3ba8ac731bc3fb2fd9697566f53dcedbfc55d0b4bb55d60d"
-metafile = true
-
-[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "442ea4d2312dd58741a7c1ce1f6ae0514cc528fb0b06e7268807d46b0720d6d9"
 metafile = true
@@ -9023,7 +8978,7 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "e3fed1ed7d0c25f236dbc99daf93589369fb1ee2edc078e67bd226b915f0d8bd"
+hash = "189ba2b078c31ebbe4c57fe665e917bb9bdec601d5d3aec11b3a328acf630ef0"
 
 [[files]]
 file = "patchouli_data.json"

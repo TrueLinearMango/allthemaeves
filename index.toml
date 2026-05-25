@@ -889,6 +889,10 @@ file = "config/cobblemon/main.json"
 hash = "ab145cf5247588e43b70dae823a83b450608b78932056ca1a0ab133f05b694c4"
 
 [[files]]
+file = "config/cobblemonsizevariation/config.json"
+hash = "b38904f3c04b36b98fb69768403c77014bbc5128ff0beb2a0feb9a910b24e045"
+
+[[files]]
 file = "config/cobblemonsizevariation/sizes/basic.json"
 hash = "0d2e72dff8d55ebe156d9beba4b9b8989fa0d09b0dd90eba13747bcb757e7257"
 

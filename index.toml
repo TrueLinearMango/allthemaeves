@@ -2,31 +2,35 @@ hash-format = "sha256"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/kinetics/belt/BeltBlock.class"
-hash = "76bfaa5d536999fd9072b1f973392db481f1b11f3357b1bf99ade8f098dc3e30"
+hash = "22b37df97608d1ac3c31b004ab84b5e36fcd7643147f3f14516428937317e0c6"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/kinetics/belt/BeltBlockEntity.class"
-hash = "b7a6de3c6cca5950cabcd4ab1dec49824f4fff9e8e254887d62bca856a767dac"
+hash = "e2ab00a6efd038d7477201f3daabbbd27a7aed3dda2bcbac2abe807b01a53dc6"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/kinetics/crusher/CrushingWheelBlock.class"
-hash = "2039419a27d28c0fc7dbb76ab4a39f7ae11e8f3a2c30617cb6f0850e56aa5788"
+hash = "1aaa4705cb34e2e34a19bd48de89e27b7ce785947230fa815e2d6a1eb95213ca"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/kinetics/crusher/CrushingWheelControllerBlock.class"
-hash = "bc3007abf473003f34a926c465559c2d7bafe02fec829181f2b692b90d16982c"
+hash = "a56dfbbd1ef052d1245dc128c7f351e0b6c2dd6cfc8d3b19edb2198fa7dd0b9e"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/trains/display/FlapDisplayBlock.class"
-hash = "9760d0d5beb2cfa1106afcc2c6adf1941d2c1f87bcfe8369b791c92656ecb2a1"
+hash = "d7ea1f719b57a83192ec21117eeb00ee4674bbbecfc5ab70e6f3e420bbcebaa0"
 
 [[files]]
 file = ".mixin.out/class/com/simibubi/create/content/trains/display/FlapDisplayBlockEntity.class"
-hash = "169b5c90ff0936487f37ca50e2ea20993daec16aa64b069559666347ffb07856"
+hash = "f6c8fc40b702273ac75119f36c6903fd019ae0fe348cb6564aec4647fc352e15"
+
+[[files]]
+file = ".mixin.out/class/dev/engine_room/flywheel/backend/engine/indirect/MatrixBuffer.class"
+hash = "21bd08882304552975b50aa2c21678d7056067af28ba9bd088d59984bb167b3a"
 
 [[files]]
 file = ".mixin.out/class/net/minecraft/nbt/CompoundTag.class"
-hash = "ff293c9cfe50654b424d2c9a8a0f6f75039002c4e4f2bc58fe8742dd4932bd82"
+hash = "b473393d063f21097cf71d62a0d3c4fd02b520136b5e2a98007b5202bb7b4648"
 
 [[files]]
 file = ".pg-native/libpowergridNative7.so"
@@ -43,6 +47,10 @@ hash = "9775909bc39ad602dc8d28b4842a16e017d40c2f618a4133de244c3a00e4f322"
 [[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "9b4eb88694491ea1fd49e7ecb7c43840ffe326d86d7cb9f3df67ee801adabc01"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -90,7 +98,7 @@ hash = "9668b85c1011cb215a91b3c1a06d5fb99d8b72a5a49a3b48ef0c4eba0b95de42"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
+hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
 
 [[files]]
 file = "config/aeroclaims-server.toml"
@@ -713,8 +721,24 @@ file = "config/ars_nouveau/search_index/_0.si"
 hash = "2c893e3e3c9c00e9b7260cb13ed3890adfddeb0e8e62122ea3da0ffbecd7824c"
 
 [[files]]
+file = "config/ars_nouveau/search_index/_3.cfe"
+hash = "da739726d5a6cd9b3133d285b74bcc4cdab962ec24a50fbab168791b9f0c2196"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_3.cfs"
+hash = "9bccc7f9d2975e5cae81628218663c0f763e791c2ea89d9f612d482aa9a2ec94"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_3.si"
+hash = "812d4dd025bdc2bf22fd3dac4bf7be76c85eeec1b22e4332d89303b881508d9c"
+
+[[files]]
 file = "config/ars_nouveau/search_index/segments_1"
 hash = "f862f90c7ea8d6f3cfb0c16890cc094eb4c9d6b114850575fd5add9f8de94499"
+
+[[files]]
+file = "config/ars_nouveau/search_index/segments_4"
+hash = "432e149e967f8252c1e4fb598d961ad15746e9f9f35d342acfbcbf790dade974"
 
 [[files]]
 file = "config/ars_nouveau/search_index/write.lock"
@@ -930,7 +954,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "fea5c28531e59a790f7c51935a8baf9bcc8fcd9cc13e3bcf526a2c8fefd2fb3c"
+hash = "613e51300d2c5dcaefff0be9db8675c1929f225dc1656c76c1da4291eb651e9f"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -1234,7 +1258,7 @@ hash = "a0867628abd6f9e052a618e61cab635a2fc04f8b2cbf93419857ba8ecec21e25"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "4cb9586500e6fec7ce17732fe2e3c93e2ef6c3e358d9959911fe31fb9074ee38"
+hash = "778c4494f09cb4e6cde585ab55054373db66c6cda0881983acb6617b2f78ef8c"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -1250,7 +1274,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "0b5b40a2846d23e3d343e4cb330cc80010b02d5905d9e990b5d67c48eee8006a"
+hash = "ec024428f50996c46fb9177118404f38ba422ab3ded399bf17aea4ef491d5876"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -1354,7 +1378,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "27bbbb16ceeca6e9d9467a20fa2235b2bcc91e13c9991a4897bac0ba512ab038"
+hash = "1192369f5eecdb4ad192686efc0b1903b8e8a5cf632b85204a25786669a9f913"
 
 [[files]]
 file = "config/irons_jewelry-server.toml"
@@ -1410,7 +1434,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "c04961a4e3e7dbbf7840cbb53383dd319a54d7ccd43deb2ab05d1a5688cc6a40"
+hash = "a7f2055440447e441c83e4ffa8df3cb6a561ec771a54a0f4d4ef8cbffd303ca9"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1434,7 +1458,11 @@ hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "1c6d4edeb3acc9d85c5c4035bee7c7d206d884743c9bf6f90644a10c3ca71dd1"
+hash = "ae102e64a4051688f75e1650a51c51bccbfe1eca81a5b1634131d929f44832f2"
+
+[[files]]
+file = "config/jei/world/local/New_World/lookupHistory.json"
+hash = "43de15628349ff79cf5b20b17cf584fe2dd59bfebe2fc7b837e3808262d8514a"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -1525,6 +1553,10 @@ file = "config/necronomicon.json5"
 hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
 
 [[files]]
+file = "config/neoforge-client-1.toml.bak"
+hash = "e73c0c047f7b12786e390da170f845b34e0be505bdb045b5682e64b09c8b0082"
+
+[[files]]
 file = "config/neoforge-client.toml"
 hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
 
@@ -1553,6 +1585,10 @@ file = "config/ntgl-common.toml"
 hash = "a73d027f2528e359463fe69a442842eadb773af6d02952cefe843bc46232b06d"
 
 [[files]]
+file = "config/ntgl-server.toml"
+hash = "ac644e183e0869b4a2252b9774597245e194ef2f22dbe840ad2c2ac06ea1749d"
+
+[[files]]
 file = "config/offroad-server.toml"
 hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
@@ -1562,7 +1598,7 @@ hash = "d87f7908139478df74831962e2cd7b742c13fab97b8b85abd761f9935aa6407f"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "0cd5a45daa3c1150274cd2e3be2b2728f0b9e286a8de4c1e9bcb72cc179b846f"
+hash = "49ef98c1c7da20eedaa223a5995307e06b4779e873d7a5e7bd869c7a8a39727a"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1734,7 +1770,7 @@ hash = "0f114121c9e0f58ba617590ff42c3f99d988422e221a40b488d662b05176ff84"
 
 [[files]]
 file = "config/sodiumextras-client.toml"
-hash = "85a26ea637713cc1ef6302f7151c62846bb11d4526552513a3224e24b4f3c875"
+hash = "18b4db3a89979dec533f9b1a02db92ef4a9376181c8e19a00744ecc223bda4f2"
 
 [[files]]
 file = "config/someassemblyrequired-client.toml"
@@ -1758,7 +1794,7 @@ hash = "467c9ffc84322873121a2e109258245030ec4d0608b7181a739681ce685a63c9"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "c92e80f57d507d2811dd6c05a83a2e1203b7ce0066585fe2395c47763783ff7d"
+hash = "69dfab5703cc1ab66c014232d8f7fa6efdc313e6aa47d33d438cbccc9ad381df"
 
 [[files]]
 file = "config/sophisticatedstorage-client.toml"
@@ -1942,7 +1978,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "dynamic-data-pack-cache/hash.txt"
-hash = "9460279a37639c5f79d0bcc0c23055c035aa457a788de199447ec154d557305e"
+hash = "70084d7edac29e329a4ca5fe7629a7fce81b05a08bfe0da0525b56dbd5f25ca9"
 
 [[files]]
 file = "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/cannon_boat_acacia/minecraft/acacia.json"
@@ -5610,7 +5646,7 @@ hash = "bdc98f07c25c340c46f8767908f227db5c08e5e2a62f8c5b972ad676169987d0"
 
 [[files]]
 file = "dynamic-resource-pack-cache/hash.txt"
-hash = "3c04561043a197721dba89688e3bc6305860621d52f995adaa92b418b17e143d"
+hash = "0f2c4e948a7e5c3820cc7e5f1a971fe2510ee149c271d09ed9f91912de420842"
 
 [[files]]
 file = "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/minecraft/models/item/crossbow.json"
@@ -6674,11 +6710,27 @@ hash = "9c765e46631de8df672c0fc539d0844e4ac3af039b2d72735e1627448f71789f"
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata"
-hash = "b2d64b1396b43e10d10822390b37cee76f272aa3230e0ea0fde7ffffc7ffe199"
+hash = "338f4207baed91b7c2e32ee871dd3bdd4ec96b2b290cafcd4e8b15e13376fd36"
 
 [[files]]
 file = "icon.png"
 hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
+
+[[files]]
+file = "local/crash_assistant/2679_1779716019710.info"
+hash = "22360770a1d82261b8a455b24068e9f5d6ee07d806c838f59e549e084b866159"
+
+[[files]]
+file = "local/crash_assistant/2679_1779716019710_app.jar"
+hash = "e672a7deb12ec34f1a88167e731f00453a9d2520caaf27449514cb6a2bb73bdb"
+
+[[files]]
+file = "local/crash_assistant/2679_1779716019710_args.info"
+hash = "f43bf2a81a531b3403a06353636d802f0aa41e028bc315448d4ebc499821c27f"
+
+[[files]]
+file = "local/crash_assistant/2679_1779716019710_mod.jar"
+hash = "3d9a73e311db4966a1fed9837d7923455c85298f621bcac0d04ff3fc420fbd90"
 
 [[files]]
 file = "local/crash_assistant/402_1779671045360.info"
@@ -6699,6 +6751,10 @@ hash = "3d9a73e311db4966a1fed9837d7923455c85298f621bcac0d04ff3fc420fbd90"
 [[files]]
 file = "local/crash_assistant/CONFIG_LOCK.tmp"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "local/crash_assistant/joined_world_pid2679.tmp"
+hash = "0dd9c349e999a792838c828aee805b63eb0bde05d48ae85d6be3876a5fed2717"
 
 [[files]]
 file = "local/crash_assistant/local_config.json"
@@ -6777,8 +6833,16 @@ file = "local/crash_assistant/mod_data_cache_v4/CutThrough-v21.1.0-1.21.1-NeoFor
 hash = "ec84bc4ef27eb017a24f0416a88af9a77ddbc9303a2a3abbcd05dcd208372023"
 
 [[files]]
+file = "local/crash_assistant/mod_data_cache_v4/Design-n-Decor-1.21.1-2.1.0(1).jar.mod_data.json"
+hash = "fc5fbb4d166a3d91885d3b783f2283e53be147be6c5eed414a6c4a73b620f058"
+
+[[files]]
 file = "local/crash_assistant/mod_data_cache_v4/Design-n-Decor-1.21.1-2.1.0.jar.mod_data.json"
 hash = "ab716f1809d62f848c5118f702d3b8dc1f008da2e1dfaafe0dbde8ba14f4d986"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v4/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar.mod_data.json"
+hash = "33c99a36a11c633186877168b6e8c127c74736b76c9b86c84e259f7417d383ea"
 
 [[files]]
 file = "local/crash_assistant/mod_data_cache_v4/DnDesires-1.21.1-2.3a-BETA.jar.mod_data.json"
@@ -7501,6 +7565,10 @@ file = "local/crash_assistant/mod_data_cache_v4/netherportalfix-neoforge-1.21.1-
 hash = "45773ea14733b600ba7ec5f1d56faf5bf604ce863532b90bba6314aa24d7263d"
 
 [[files]]
+file = "local/crash_assistant/mod_data_cache_v4/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar.mod_data.json"
+hash = "1ce3ba6936e5816cc1ffa5c95bdfac83c5977944d22a5592bd314cb71ff669eb"
+
+[[files]]
 file = "local/crash_assistant/mod_data_cache_v4/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar.mod_data.json"
 hash = "70968eb4953f90da5b6b23ba5a02ff0db6987175cf86999f0eec40f250795587"
 
@@ -7685,12 +7753,24 @@ file = "local/crash_assistant/mod_data_cache_v4/xaeroworldmap-neoforge-1.21.1-1.
 hash = "837941e89a6adbe908ea33867aad743348b424f6aafab85f11cc97018292b2db"
 
 [[files]]
+file = "local/crash_assistant/normal_stop_pid2679.tmp"
+hash = "a200054f13894b3eadaec56ef41df35b6fb26537caac4f0d6d1f378215f1e49c"
+
+[[files]]
 file = "local/crash_assistant/normal_stop_pid402.tmp"
 hash = "a23a936aec674462fe9a3945a5a042082a83e977f422efb64d6a83e6a366d708"
 
 [[files]]
+file = "local/crash_assistant/renderer_pid2679.tmp"
+hash = "062bc9b48efb6372391b04ac5731441760ae3a001b4055c56d74777bf08cb8bb"
+
+[[files]]
 file = "local/crash_assistant/renderer_pid402.tmp"
 hash = "062bc9b48efb6372391b04ac5731441760ae3a001b4055c56d74777bf08cb8bb"
+
+[[files]]
+file = "local/crash_assistant/successful_launch_pid2679.tmp"
+hash = "9c9f2c5c1f72e7ebb8aa8a809aebb92abe5b1b801df877cbed2cd684ba510cd7"
 
 [[files]]
 file = "local/crash_assistant/successful_launch_pid402.tmp"
@@ -7715,6 +7795,10 @@ hash = "2817d33873c4f47bf1e6af5d7be5f1058486314986daccd157795c6b083e1fd0"
 [[files]]
 file = "mods/Cobbreeding-neoforge-2.2.1.jar"
 hash = "f0022f992bf935c649ae85dd15d416f209be0f04bbeffe61cd0d64568202d0e7"
+
+[[files]]
+file = "mods/Design-n-Decor-1.21.1-2.1.0(1).jar"
+hash = "bcd8a6c50f7d94698da473a675222e6038d3af09b0560e70c3394f32f798114d"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -7994,6 +8078,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
 metafile = true
 
 [[files]]
@@ -8311,6 +8400,11 @@ hash = "c4cb0e99771912399791487f68c98ae8546642857bc8ec0c6683355df6631cf1"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "d5f0e5e66fa14c259c82e947d2b99a191f8bc9fd83e466f733bf9532771a3082"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "c233f9b1eeacd658394927dd886e96db37da27ca4cea752710510f2a0c72d236"
 metafile = true
@@ -8625,6 +8719,11 @@ hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
 
 [[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "9c93eb7b597436c3f71fd4c19121633146776c50b7c9b3b06c7dc9441d722da9"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "dde4d08197acbd026127ab3a7f1de5c1796b54e1cd878a1bee2be9eab4aa77bf"
 metafile = true
@@ -8916,7 +9015,15 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7b86b2132fb80b0a1380565fd6990f0d4c0df164f45c3760e2f54dd5e0fa1db5"
+hash = "46e8dcc789b73d257520ad7c436a64f0cb4310100f38d3ef029c9da5b554cc67"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "packwiz.json"
+hash = "e3fed1ed7d0c25f236dbc99daf93589369fb1ee2edc078e67bd226b915f0d8bd"
 
 [[files]]
 file = "patchouli_data.json"
@@ -8925,6 +9032,10 @@ hash = "0d6f8bff5d59d58e2ddda36b742394251afe308cb8cf96fac6c6c06144e28a15"
 [[files]]
 file = "ponders_watched.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "saves/New World/DIM-1/data/DistantHorizons.sqlite"
+hash = "eed6d4ee986849f7c3899de2c2498d2d12989a8a72aafe613ec99fbd889d91e6"
 
 [[files]]
 file = "saves/New World/DIM-1/data/aeronautics_unloaded_balloons.dat"
@@ -8944,7 +9055,11 @@ hash = "1a0d890f812b5a3c7d0ba8bb2f0bdb1bafb3655cd6c8868f41cf47c39c9f744b"
 
 [[files]]
 file = "saves/New World/DIM-1/data/raids.dat"
-hash = "ea9fb40fbfa33b5e539117ca5576dffda03924ecdcc08f01fdfab45341159dbb"
+hash = "fe7bebea1be851c341daca5faebec0cbf2b281001fc8e58868b9662e2cf5a4ba"
+
+[[files]]
+file = "saves/New World/DIM1/data/DistantHorizons.sqlite"
+hash = "c42ab31c6b5dca4aca68ebd8653c9ef2dc73fc9d66d18010653adf03b0b666fb"
 
 [[files]]
 file = "saves/New World/DIM1/data/aeronautics_unloaded_balloons.dat"
@@ -8964,11 +9079,11 @@ hash = "1a0d890f812b5a3c7d0ba8bb2f0bdb1bafb3655cd6c8868f41cf47c39c9f744b"
 
 [[files]]
 file = "saves/New World/DIM1/data/raids_end.dat"
-hash = "ea9fb40fbfa33b5e539117ca5576dffda03924ecdcc08f01fdfab45341159dbb"
+hash = "fe7bebea1be851c341daca5faebec0cbf2b281001fc8e58868b9662e2cf5a4ba"
 
 [[files]]
 file = "saves/New World/advancements/df7a4610-0cd4-4b9e-85b5-f1f464482733.json"
-hash = "b2be17db4860dea04ffe141862ae0ba44de49ee7f4647398070f0c9d8711eb7c"
+hash = "c7e50ccf84edef143b8d539a77e32493b6a9dbed97f7857aeb1102f6c9e1117e"
 
 [[files]]
 file = "saves/New World/aeroclaims/claimed_sublevels.json"
@@ -8980,7 +9095,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "saves/New World/chunk_activity_info/overworld.dat"
-hash = "a747c2cceea1b9c66bd4ee2c2139c05a84effd617844bb467b8042b6a50474dd"
+hash = "cb6d7cf4a5ed0faf21b579619292d22e3f2c60bc90ed47b96778c56e2393964f"
 
 [[files]]
 file = "saves/New World/cobblemonplayerdata/df/df7a4610-0cd4-4b9e-85b5-f1f464482733.json"
@@ -8989,6 +9104,10 @@ hash = "7d91e01f92d4e45e72573c3f27474c7cb52bc1e75dac7e7b82675ff004a2dff3"
 [[files]]
 file = "saves/New World/cobblemonplayerdata/df/df7a4610-0cd4-4b9e-85b5-f1f464482733.json.old"
 hash = "7d91e01f92d4e45e72573c3f27474c7cb52bc1e75dac7e7b82675ff004a2dff3"
+
+[[files]]
+file = "saves/New World/data/DistantHorizons.sqlite"
+hash = "f9856d6e6b27703f925bab6c700fb06d222ace57fbc94f73df201b461ed5de0e"
 
 [[files]]
 file = "saves/New World/data/aeronautics_unloaded_balloons.dat"
@@ -9016,7 +9135,7 @@ hash = "1105842fa018275ef27590b79e9530aa2070478dd89fbb36237664438e5927a4"
 
 [[files]]
 file = "saves/New World/data/irons_lib_data.dat"
-hash = "068fc065df44a90c7a0e968150bfa7245af1e1531287e01135b566987c697def"
+hash = "9fe68f707c5d11ee0c8e0999bad86290158ba264c427a0e08a757dc8cf7d8ac0"
 
 [[files]]
 file = "saves/New World/data/neoforge_data_attachments.dat"
@@ -9056,15 +9175,19 @@ hash = "5809ecf7d0c21568a0cc774dfd5eb5c637f003c9c80b154f42f6ec4d83f1697b"
 
 [[files]]
 file = "saves/New World/data/raids.dat"
-hash = "ea9fb40fbfa33b5e539117ca5576dffda03924ecdcc08f01fdfab45341159dbb"
+hash = "fe7bebea1be851c341daca5faebec0cbf2b281001fc8e58868b9662e2cf5a4ba"
 
 [[files]]
 file = "saves/New World/data/random_sequences.dat"
-hash = "b8060b7f759747392dc5192541e21064a1376a1f3a38b7c1dbab12e327a9b94a"
+hash = "dc5029158e1dbb2ca1404461d9451929df6663706867ba66d117bc54704e5108"
 
 [[files]]
 file = "saves/New World/data/scoreboard.dat"
-hash = "7f398bdb77ad4c0c5fc23636cb03605450760b5634a879c4d2ab6a93bc68236b"
+hash = "83dda19f5c3c922951a82517778a6b6f79dcb936ce9bbd39b8f8d1d21de55bf6"
+
+[[files]]
+file = "saves/New World/dimensions/aether/the_aether/data/DistantHorizons.sqlite"
+hash = "d01340272b1c091dea3ccbd5525ee97d0996119ad04af4112c734bec4e27f9f2"
 
 [[files]]
 file = "saves/New World/dimensions/aether/the_aether/data/aeronautics_unloaded_balloons.dat"
@@ -9084,7 +9207,11 @@ hash = "ad6688024c44486b8d6d7240f6dcd7cd7358de63c654ad90f0e9179992c17da5"
 
 [[files]]
 file = "saves/New World/dimensions/aether/the_aether/data/raids.dat"
-hash = "ea9fb40fbfa33b5e539117ca5576dffda03924ecdcc08f01fdfab45341159dbb"
+hash = "fe7bebea1be851c341daca5faebec0cbf2b281001fc8e58868b9662e2cf5a4ba"
+
+[[files]]
+file = "saves/New World/dimensions/irons_spellbooks/pocket_dimension/data/DistantHorizons.sqlite"
+hash = "12eb12fe0ecf7680b64d64d924a6bf735a338b786c2b554fc8f8ecfd363c8a10"
 
 [[files]]
 file = "saves/New World/dimensions/irons_spellbooks/pocket_dimension/data/aeronautics_unloaded_balloons.dat"
@@ -9104,7 +9231,7 @@ hash = "1a0d890f812b5a3c7d0ba8bb2f0bdb1bafb3655cd6c8868f41cf47c39c9f744b"
 
 [[files]]
 file = "saves/New World/dimensions/irons_spellbooks/pocket_dimension/data/raids.dat"
-hash = "ea9fb40fbfa33b5e539117ca5576dffda03924ecdcc08f01fdfab45341159dbb"
+hash = "fe7bebea1be851c341daca5faebec0cbf2b281001fc8e58868b9662e2cf5a4ba"
 
 [[files]]
 file = "saves/New World/dimensions/minecraft/server_faucet_test_level/mfix_stronghold_cache_v2.nbt"
@@ -9113,6 +9240,10 @@ hash = "5ae78c7a848580733f34d1121593da7b4ad322355d3af81e8cc53291f5971c4e"
 [[files]]
 file = "saves/New World/dimensions/minecraft/server_projectile_test_level/mfix_stronghold_cache_v2.nbt"
 hash = "5ae78c7a848580733f34d1121593da7b4ad322355d3af81e8cc53291f5971c4e"
+
+[[files]]
+file = "saves/New World/dimensions/twilightforest/twilight_forest/data/DistantHorizons.sqlite"
+hash = "fec266e4a698217b597675cad39840afe57adfbc7e05165c359689bb512ebf50"
 
 [[files]]
 file = "saves/New World/dimensions/twilightforest/twilight_forest/data/aeronautics_unloaded_balloons.dat"
@@ -9132,7 +9263,7 @@ hash = "1a0d890f812b5a3c7d0ba8bb2f0bdb1bafb3655cd6c8868f41cf47c39c9f744b"
 
 [[files]]
 file = "saves/New World/dimensions/twilightforest/twilight_forest/data/raids.dat"
-hash = "ea9fb40fbfa33b5e539117ca5576dffda03924ecdcc08f01fdfab45341159dbb"
+hash = "fe7bebea1be851c341daca5faebec0cbf2b281001fc8e58868b9662e2cf5a4ba"
 
 [[files]]
 file = "saves/New World/entities/r.-1.-1.mca"
@@ -9140,31 +9271,39 @@ hash = "de900f2e0a654aa89ab580f3d7f2f45781285472ce15d385335dea0c362756ea"
 
 [[files]]
 file = "saves/New World/entities/r.-1.0.mca"
-hash = "e4cf9037a3ff8019fe941fc58ca110cb4544f9666e5354edfb9cb18999dc2951"
+hash = "50265cf4e00667784e95cf4daeb771ace810e8f8cb9cc583dd34a2dc31c6ab04"
+
+[[files]]
+file = "saves/New World/entities/r.-1.1.mca"
+hash = "ac1a407562d5fa70555803ec06aeae77e977b23b4ae81fd53d39cc9e66dd3f4f"
 
 [[files]]
 file = "saves/New World/entities/r.0.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "bda80ef01bbb4a7d99f8248132f4635b0c26c0e21609ef7cb8dd39f21737645a"
+
+[[files]]
+file = "saves/New World/entities/r.0.1.mca"
+hash = "1b5fd4dd1735f50a7980766ecb795f4e23060ad9bde66c64a6397543ff0cd8b5"
 
 [[files]]
 file = "saves/New World/ftbteams/ftbteams.snbt"
-hash = "fd34d1d7c9954b224d936aff50834f959cd7a47f0b1befe01c64992b748ea941"
+hash = "f2084b9c4a87e7cf4f7f94a46596a6d56a8762dbd1455602dc3eaaea4085917a"
 
 [[files]]
 file = "saves/New World/ftbteams/player/df7a4610-0cd4-4b9e-85b5-f1f464482733.snbt"
-hash = "e2e34547e470d6859b680c153ad2d6af71985108ce450c52bf5605aa3d1f6c0a"
+hash = "463e1d2f460e3d64f9eccd9c1f526a0636d0383737547b8d20fec65a99149f70"
 
 [[files]]
 file = "saves/New World/icon.png"
-hash = "506c53e73445b0c6c6300858387ceaf8109163959d41de518198466508bf4d21"
+hash = "837418ad3e57d5207005a34f861d9294a58f2ea7e6f873a67f2fbe8073d2a420"
 
 [[files]]
 file = "saves/New World/level.dat"
-hash = "4cb44ae26270a7353156fbcb5da5b2ae1b9f349bc1f92b32a26f000cd2aa2b78"
+hash = "74e4a977834b6c2491d62465944376d2f9e54db9ae719ca838a32b5967810739"
 
 [[files]]
 file = "saves/New World/level.dat_old"
-hash = "acdfe3314c87aa6d5ec467a4f2dfe18a03ad48f780cb4aac8fa66fa04838745f"
+hash = "a96762c879b1299fbfb7b1d183deda22f305c75111942506e65b96414d5e5dbc"
 
 [[files]]
 file = "saves/New World/mfix_stronghold_cache_v2.nbt"
@@ -9172,22 +9311,62 @@ hash = "5ae78c7a848580733f34d1121593da7b4ad322355d3af81e8cc53291f5971c4e"
 
 [[files]]
 file = "saves/New World/playerdata/df7a4610-0cd4-4b9e-85b5-f1f464482733.dat"
-hash = "d0887df1f28ad0bbfd7f6c6b0c46f096bcfa1a1db963b95c629fd3ba50317e5c"
+hash = "d34279c847c12ca93589f3ed6a2afe50d5da4a845a74ead3017ac18158a3dd04"
 
 [[files]]
 file = "saves/New World/playerdata/df7a4610-0cd4-4b9e-85b5-f1f464482733.dat_old"
-hash = "04686ad91bafd09d0d55b3d3d01eeaf468642dca1501d517efd2bba23b4a3284"
+hash = "86f8b54ec630e1a1a6375d2253da28ff72f99e857428ea77606c403d5e54c36d"
 
 [[files]]
 file = "saves/New World/poi/r.-1.-1.mca"
-hash = "6f76763145f8dba482caa438218b465b2245e972e307bc7afa1093ce51956260"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/New World/poi/r.-1.0.mca"
-hash = "8e2d063bf122540fec05a735ec782bf35670e47714c8724b716ee0d8986ffc98"
+hash = "fb5cbe8612c0f83da10c694e16c400fc149bc7310d068b3854cb56c9c9d8b095"
+
+[[files]]
+file = "saves/New World/poi/r.-1.1.mca"
+hash = "2d60f8e1c983d44edacceb4914db81382c18293cada6444b068f0437d056facc"
+
+[[files]]
+file = "saves/New World/poi/r.-1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/poi/r.-2.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/poi/r.-2.0.mca"
+hash = "578a27ead1301016630b83c566b5ab7cff7049357e300c8e84819c7a4e5a9d18"
+
+[[files]]
+file = "saves/New World/poi/r.-2.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/poi/r.-2.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/New World/poi/r.0.0.mca"
+hash = "7e7f3285cd76a31c82d83a0a76df0e0345e517bab88dbaffa0d659e40df7f207"
+
+[[files]]
+file = "saves/New World/poi/r.0.1.mca"
+hash = "df25844b81ddead6a3106f54fcbd40eca5b9e3ead1e33174201b9fef6fb33187"
+
+[[files]]
+file = "saves/New World/poi/r.0.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/poi/r.1.1.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
@@ -9204,7 +9383,7 @@ hash = "f0bb568be46fe2d7333ec41aa9625d1f9316199f31b13c238e23b7ee4dbe8efd"
 
 [[files]]
 file = "saves/New World/region/r.-1.-1.mca"
-hash = "1b224fcaf490767e1c69523cb03f1fe634b1ddcc65c91cae1bb8bd01b5cb2327"
+hash = "2ce73e225de3436ad5b440fe33bbcf0da8316937db66bdffc3234af26e8520c1"
 
 [[files]]
 file = "saves/New World/region/r.-1.-2.mca"
@@ -9212,27 +9391,39 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/New World/region/r.-1.0.mca"
-hash = "3fede8e153bc5c1da7cb5bdaf575e17f297698b9455d858bf3792b4a625c79a3"
+hash = "89170d5b0a836cad7f726bd24d0c1b038a21e7d3ee955cabf40d76043a29abd9"
 
 [[files]]
 file = "saves/New World/region/r.-1.1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "907bdb7b35ef5832e3f831b5d87470c34841089a1cd376b70ab5be1f2d87c91d"
 
 [[files]]
 file = "saves/New World/region/r.-1.2.mca"
+hash = "58341d0864384e0b6f17f0722dbdf095a78e7750da9963064fff4b91b5ab0098"
+
+[[files]]
+file = "saves/New World/region/r.-1.3.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/New World/region/r.-2.-1.mca"
+hash = "396e17234c73ec6ea5e7dd5c8c803e07ec4024b241927acf77c598742de61971"
+
+[[files]]
+file = "saves/New World/region/r.-2.-2.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/New World/region/r.-2.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "de54aa28d58019f5474284e14f3e32dd862b8b5c3bd435ff76d35932ab0de622"
 
 [[files]]
 file = "saves/New World/region/r.-2.1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "bbcb1e06123fbb1ce933ef14d588158c553455243f17d9e1b6890456f9d0e901"
+
+[[files]]
+file = "saves/New World/region/r.-2.2.mca"
+hash = "7dd19d5cff5bffc84310404fdb3df10c4d1a1c83827dbf46dfdb50da34f56c2e"
 
 [[files]]
 file = "saves/New World/region/r.-3.-1.mca"
@@ -9247,7 +9438,19 @@ file = "saves/New World/region/r.-3.0.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "saves/New World/region/r.-3.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "saves/New World/region/r.-3.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.-4.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.-4.0.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
@@ -9255,23 +9458,35 @@ file = "saves/New World/region/r.-4.1.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "saves/New World/region/r.0.-1.mca"
+file = "saves/New World/region/r.-4.2.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.0.-1.mca"
+hash = "4e49b407a9608a9960aa0e7a83172e4f038515dabeb1ce3b5a6c2e9684885124"
 
 [[files]]
 file = "saves/New World/region/r.0.-2.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "saves/New World/region/r.0.0.mca"
-hash = "81048f3e68998fccb4cc93312306d78961189a315959cbeecb28efa2a034d3e8"
-
-[[files]]
-file = "saves/New World/region/r.0.1.mca"
+file = "saves/New World/region/r.0.-3.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "saves/New World/region/r.0.0.mca"
+hash = "ed8e37da70feead8b80c1da9409195911d2ab52a8e20f82273caeed411cf86b4"
+
+[[files]]
+file = "saves/New World/region/r.0.1.mca"
+hash = "37a0071067102fb593de345ffcf87320b660fc420848c64a9154d7cbf9c6209d"
+
+[[files]]
 file = "saves/New World/region/r.0.2.mca"
+hash = "b293ed900e5baa871644775866f8fb93b267cf98b5cf388d7b0d8c8623189f68"
+
+[[files]]
+file = "saves/New World/region/r.0.3.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
@@ -9283,15 +9498,27 @@ file = "saves/New World/region/r.1.-2.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "saves/New World/region/r.1.-3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "saves/New World/region/r.1.0.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/New World/region/r.1.1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "e1fcfc59a5535fc99807cfd83fc9363c4d8550da702e566f2fc296b58013eaf2"
 
 [[files]]
 file = "saves/New World/region/r.1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.2.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.2.1.mca"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
@@ -9320,7 +9547,7 @@ hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
 
 [[files]]
 file = "saves/New World/stats/df7a4610-0cd4-4b9e-85b5-f1f464482733.json"
-hash = "c91ffeffed6f7d2b87ddb218153f01fbef61ee170f9d0a809c15cb3e6ac3fef0"
+hash = "5c3132e681b6c7fc2eb9348fb58cdccb622144dcc911c3e54ca4c349cde12003"
 
 [[files]]
 file = "saves/New World/sublevels/r.-1.-1.slvlr"
@@ -9331,12 +9558,20 @@ file = "saves/New World/sublevels/r.-1.0.slvlr"
 hash = "ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7"
 
 [[files]]
+file = "saves/New World/sublevels/r.-1.1.slvlr"
+hash = "ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7"
+
+[[files]]
 file = "saves/New World/sublevels/r.0.0.slvlr"
 hash = "ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7"
 
 [[files]]
+file = "saves/New World/sublevels/r.0.1.slvlr"
+hash = "ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7"
+
+[[files]]
 file = "saves/New World/xaeromap.txt"
-hash = "4a8385e09b1e8174acf8b96b93e422d1e3d1571846b110929294e4f643edacf7"
+hash = "3ce907da1a967e7cb6fb4c6d975a6b2131e6e59b769690d168bff0fa6784c33d"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
@@ -12748,7 +12983,7 @@ hash = "92a186350d0f37a96ca4c43feebe12486c6836ac5b32f5304a1958e42460217c"
 
 [[files]]
 file = "usercache.json"
-hash = "1ea0d31ece91bb4e65c93422f3f81233592309515b9bd01702d7c20563f71eb9"
+hash = "69c9d1a37523dfd2dbe834e669431fabdfbe679726d9c5b7985fe772dffaf3f8"
 
 [[files]]
 file = "usernamecache.json"
@@ -12757,6 +12992,22 @@ hash = "0457599283594705b5fd35ad4660e3e788448c44a781e803f0b51ebfc9492478"
 [[files]]
 file = "xaero/minimap/New World/config.txt"
 hash = "9775909bc39ad602dc8d28b4842a16e017d40c2f618a4133de244c3a00e4f322"
+
+[[files]]
+file = "xaero/world-map/New World/null/cache_1/-1_0.xwmc.outdated"
+hash = "5ae3911627d4c64ba141fe0df3005b9eb981f26ee5d692a2db60d504123ee54b"
+
+[[files]]
+file = "xaero/world-map/New World/null/cache_1/-1_1.xwmc.outdated"
+hash = "2c94d9c160026c4982a126fdf0c7f146d847d1ef866533fe26e96345d23ce21f"
+
+[[files]]
+file = "xaero/world-map/New World/null/cache_1/0_0.xwmc.outdated"
+hash = "2900a9833f571e94c48296238ab0cad2c2b89f1612c2429402a9b9cd1ba0df92"
+
+[[files]]
+file = "xaero/world-map/New World/null/cache_1/0_1.xwmc.outdated"
+hash = "3eedf27b1bc6e8102e40b6e5f8d12cbbc8a5cc82ed87db7e3eb19ce73406ca42"
 
 [[files]]
 file = "xaero/world-map/New World/null/dimension_config.txt"

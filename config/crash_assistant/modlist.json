@@ -858,6 +858,14 @@
     "curseForgeHash": 2798632357,
     "modrinthHash": "550f272c140566f0961c1bb3fdfb1a6272be30dd"
   },
+  "Design-n-Decor-1.21.1-2.1.0(1).jar": {
+    "jarName": "Design-n-Decor-1.21.1-2.1.0(1).jar",
+    "modId": "dndecor",
+    "name": "Design n\u0027 Decor",
+    "version": "2.1.0",
+    "curseForgeHash": 286186689,
+    "modrinthHash": "6ff962a9c2e9cc9abdc6de0b01f834839ce7fed1"
+  },
   "Design-n-Decor-1.21.1-2.1.0.jar": {
     "jarName": "Design-n-Decor-1.21.1-2.1.0.jar",
     "modId": "dndecor",
@@ -873,6 +881,14 @@
     "version": "1.0.0",
     "curseForgeHash": 349714845,
     "modrinthHash": "e85b18cbb8dffd7e6920002c572f52c1de87c794"
+  },
+  "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar": {
+    "jarName": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+    "modId": "distanthorizons",
+    "name": "Distant Horizons",
+    "version": "3.0.3-b",
+    "curseForgeHash": 1706026011,
+    "modrinthHash": "bc865b11c94581949384b6d5820b58aee8b7273c"
   },
   "DnDesires-1.21.1-2.3a-BETA.jar": {
     "jarName": "DnDesires-1.21.1-2.3a-BETA.jar",
@@ -1343,14 +1359,6 @@
     "curseForgeHash": 3496257519,
     "modrinthHash": "2fbce2437be5a2ac69aa093a388ca43f44245237"
   },
-  "moonlight-neoforge-1.21.1-3.0.13.jar": {
-    "jarName": "moonlight-neoforge-1.21.1-3.0.13.jar",
-    "modId": "moonlight",
-    "name": "Moonlight Lib",
-    "version": "1.21.1-3.0.13",
-    "curseForgeHash": 549831598,
-    "modrinthHash": "71776d37deb6dadfad08d4a35766b803b6a01cb9"
-  },
   "moonlight-neoforge-1.21.1-3.0.14.jar": {
     "jarName": "moonlight-neoforge-1.21.1-3.0.14.jar",
     "modId": "moonlight",
@@ -1414,6 +1422,14 @@
     "version": "1.21.1-v2.9.1",
     "curseForgeHash": 1237891864,
     "modrinthHash": "9edfc7861277ff661141304dc8216f83eacdd9af"
+  },
+  "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar": {
+    "jarName": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+    "modId": "noisium",
+    "name": "Noisium",
+    "version": "2.7.0+mc1.21-1.21.1",
+    "curseForgeHash": 960990942,
+    "modrinthHash": "420b3a234d8f83fa6b24d8dd26333b6256af7911"
   },
   "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar": {
     "jarName": "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",

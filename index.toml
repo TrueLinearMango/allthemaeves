@@ -77,26 +77,6 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
-file = "config/Veinminer/BlockPerToolList.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/Veinminer/BlocksList.toml"
-hash = "309d6725e9431b1e23241b8617d610825b747077f11c5e9706636d0de206957a"
-
-[[files]]
-file = "config/Veinminer/GeneralConfig.toml"
-hash = "0f15403c4cdad7ea9229ad3e1e9ce5a6154938060fb1ca1a9672b081b36fdfc3"
-
-[[files]]
-file = "config/Veinminer/Players/PlayerData.json"
-hash = "1d9f71e7c863a97d645a71485e7c54481c14759dee5420282780cf35e795ae98"
-
-[[files]]
-file = "config/Veinminer/ToolsList.toml"
-hash = "9668b85c1011cb215a91b3c1a06d5fb99d8b72a5a49a3b48ef0c4eba0b95de42"
-
-[[files]]
 file = "config/accessories.json5"
 hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
 
@@ -8470,6 +8450,11 @@ hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "15dc3b581cc649acea7f375427dfd4116b29d724be1092c8ca306e968a0a4a98"
+metafile = true
+
+[[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
 hash = "43287a3c5030a05b370b45ec1ab9a4a8d5c3d43e9c740aae5218f07ffd041fd2"
 metafile = true
@@ -8936,11 +8921,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
-metafile = true
-
-[[files]]
-file = "mods/veinminer-hc.pw.toml"
-hash = "cb7f1d86ae135caa77f747a66675851a1f4ce8b7e22650689d768ab4837fbaa1"
 metafile = true
 
 [[files]]

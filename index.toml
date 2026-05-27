@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".index.toml.kate-swp"
+hash = "473519c560a66a7fb7ac0dcf3d155e9427efbc41180d3fd13ff703e82c5f6873"
+
+[[files]]
 file = ".mixin.out/class/com/simibubi/create/content/kinetics/belt/BeltBlock.class"
 hash = "daefaed8ddb6a3f64f3a68862868ca7c2d125ca560d5efd408c539000234722c"
 
@@ -75,6 +79,26 @@ hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 [[files]]
 file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/Veinminer/BlockPerToolList.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/Veinminer/BlocksList.toml"
+hash = "309d6725e9431b1e23241b8617d610825b747077f11c5e9706636d0de206957a"
+
+[[files]]
+file = "config/Veinminer/GeneralConfig.toml"
+hash = "0f15403c4cdad7ea9229ad3e1e9ce5a6154938060fb1ca1a9672b081b36fdfc3"
+
+[[files]]
+file = "config/Veinminer/Players/PlayerData.json"
+hash = "1d9f71e7c863a97d645a71485e7c54481c14759dee5420282780cf35e795ae98"
+
+[[files]]
+file = "config/Veinminer/ToolsList.toml"
+hash = "9668b85c1011cb215a91b3c1a06d5fb99d8b72a5a49a3b48ef0c4eba0b95de42"
 
 [[files]]
 file = "config/accessories.json5"
